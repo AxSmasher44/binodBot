@@ -1,0 +1,3 @@
+Bot Token: Nzc1MjIwNjQ4OTMwNDQzMjk1.X6jKfQ.nOqKN6h9NaWfWRsxHBqAMVAiHyc
+
+Bot URL: https://discord.com/api/oauth2/authorize?client_id=775220648930443295&permissions=317504&scope=bot
