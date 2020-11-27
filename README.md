@@ -23,7 +23,7 @@ binodBot is a discord bot that scrapes memes from your subreddit of choice and s
 3. Create a .env file in the same folder as the script and put the following stuff in it:
 
 ```
-  .env
+  # .env
 
   DISCORD_TOKEN=<your discord app token>  
   
