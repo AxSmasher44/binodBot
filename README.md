@@ -35,3 +35,5 @@ binodBot is a discord bot that scrapes memes from your subreddit of choice and p
 ```
 
 4. Run `main.py` to activate the bot!
+
+Add the bot to your server using this link: https://bit.ly/3qgfiC3
